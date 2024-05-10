@@ -1,1 +1,2 @@
 全部,#genre#
+CCTV,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
